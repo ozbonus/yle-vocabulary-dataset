@@ -1,5 +1,8 @@
 # Cambridge YLE Vocabulary Dataset
 
+> [!WARNING]
+> This repository has been archived and is no longer receiving updates. To access my most up-to-date opinionated vocabulary datasets, please use this repository: <https://github.com/ozbonus/cambridge-english-test-vocabulary>
+
 The Cambridge Young Learner's English series of standardized English tests recommends that students of a certain level should already know certain English words. This dataset collects into a tidy `csv` file those words in both British and American English, the levels at which they should be known, their parts of speech, and thematic category.
 
 There is also a Google Sheets which you can copy and query more quickly: <https://docs.google.com/spreadsheets/d/1_JpZPO8QjzKbOrhq75Pu4JFsc7bTBonr16KxAigXrFw/edit?usp=sharing>
@@ -46,5 +49,3 @@ This dataset is not a direct copy from the source material. It contains some opi
 Pre A1 Starters, A1 Movers, and A2 Flyers are copyright Cambridge University Press and Cambridge English Assessment.
 
 This dataset is a transformative derivative work distributed under the Creative Commons Attribution Share Alike 4.0 International license (a.k.a CC-BY-SA-4.0). See `LICENSE.txt` for more information or visit <https://choosealicense.com/licenses/cc-by-sa-4.0/>
-
-
